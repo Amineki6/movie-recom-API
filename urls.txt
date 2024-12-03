@@ -1,0 +1,2 @@
+http://127.0.0.1:5000/user-interaction?user_input=0&movie_input=241&rating_input=0
+http://127.0.0.1:5000/recommend?user_input=0
